@@ -4,10 +4,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End eğitiminde oluşturduğ
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-# code block
-
+```
 gh repo clone hasanhtekke/kodluyoruzilkrepo
-
+```
 
 ## Usage
 
@@ -15,11 +14,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-# code block
-
+```
 cd kodluyoruzilkrepo
 code .
-
+```
 
 ## Contributing
 
